@@ -6,3 +6,7 @@ git add
 
 git commit
 
+git remote add origin "url"
+
+git push branch master
+
